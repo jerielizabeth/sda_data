@@ -18,4 +18,4 @@ If you use data from this project, please cite using the following information:
 
 > "url" : "https://github.com/jerielizabeth/sda_data/yearbooks"
 
-> "version" or "commit" : "[commit information]"
+> "version" or "commit" : "[SHA]"
