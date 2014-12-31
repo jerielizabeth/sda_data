@@ -13,7 +13,7 @@ If you use data from this project, please cite using the following information:
 
 > "author" : "Jeri Elizabeth Meninga"
 
-> "title" : "A Gospel of Health and Salvation: Data/[filename]"
+> "title" : "A Gospel of Health and Salvation: data/[filename]"
 
 > "publisher" : "Github"
 
